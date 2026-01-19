@@ -64,7 +64,7 @@ cd guess-the-number-streamlit
 pip install streamlit
 
 # Run the app
-streamlit run streamlit-UI.py
+streamlit run main.py
 
 🎯 Learning Outcomes
 
